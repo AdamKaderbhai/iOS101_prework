@@ -16,12 +16,13 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 
+![](https://imgur.com/gallery/ios101-prework-te68Bq5.gif)
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+For me Connecting UI to Logic was a bit challenging.
 
 ## License
 
