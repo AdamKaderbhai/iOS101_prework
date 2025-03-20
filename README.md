@@ -27,7 +27,8 @@ The following **required** functionality is completed:
 2.) The Fitness App
 - Has nice visual ring feature to show my progess for each activity
 - Offers a variety of training tutorials to guide my workouts.
-
+- Very easy to integrate with apple watch
+  
 3.) Muscle Wiki
 - Very convenient, I just tap on a muscle on the interactive figure, and it provides different exercises of various types.
 - Lets me create personalized workouts based on the exercises I like.
