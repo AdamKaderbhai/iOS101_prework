@@ -24,8 +24,8 @@ src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvZ2swczV6ZHY5ZDF3dDN1Z
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... 
-ezgif
-Giphy
+- ezgif
+- Giphy
 
 
 ## Apps that I like : 
