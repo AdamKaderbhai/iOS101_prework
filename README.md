@@ -15,8 +15,18 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
+## Video Walkthrough
 
-![](https://imgur.com/gallery/ios101-prework-te68Bq5.gif)
+Here's a walkthrough of implemented features:
+
+<img
+src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVvZ2swczV6ZHY5ZDF3dDN1ZmFzbDg2Z3lncW9yaDFpc2o0NGp2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOP5N1cMmhtb3h1pMA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ... 
+ezgif
+Giphy
+
 
 ## Apps that I like : 
 1.) Duolingo
